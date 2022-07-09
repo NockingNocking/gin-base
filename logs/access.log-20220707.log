@@ -1,0 +1,5 @@
+{"client_ip":"127.0.0.1","latency_time":0,"level":"info","msg":"","req_Id":"1657207587500885100","req_body":"","req_method":"GET","req_uri":"/user/info","res_body":"null","status_code":200,"time":"2022-07-07 23:26:27"}
+{"client_ip":"127.0.0.1","latency_time":0,"level":"info","msg":"","req_Id":"1657207875921855000","req_body":"","req_method":"GET","req_uri":"/user/info","res_body":"null","status_code":200,"time":"2022-07-07 23:31:15"}
+{"client_ip":"127.0.0.1","latency_time":0,"level":"info","msg":"","req_Id":"1657207900932398700","req_body":"","req_method":"GET","req_uri":"/user/info","res_body":"null","status_code":200,"time":"2022-07-07 23:31:40"}
+{"client_ip":"127.0.0.1","latency_time":86100,"level":"info","msg":"","req_Id":"1657207924659910100","req_body":"","req_method":"GET","req_uri":"/user/inf","res_body":"null","status_code":404,"time":"2022-07-07 23:32:04"}
+{"client_ip":"127.0.0.1","latency_time":996200,"level":"info","msg":"","reason":"path not found","req_Id":"1657208813016523300","req_body":"","req_method":"GET","req_uri":"/user/inf","res_body":"{\"reason\":\"path not found\"}","status_code":404,"time":"2022-07-07 23:46:53"}

@@ -1,0 +1,21 @@
+listen_port: "8080"
+
+log_path: ""
+
+redis_password: ""
+redis_is_cluster: false
+redis_addr: ""
+
+mysql_user: "root"
+mysql_pwd: "123456"
+mysql_host: "127.0.0.1"
+mysql_port: 3306
+mysql_db: "blog"
+
+# OSS配置
+oss_isOpen: true
+# oss_endpoint: "oss-cn-chengdu-internal.aliyuncs.com" # 内网
+oss_endpoint: "oss-cn-chengdu.aliyuncs.com" # 外网
+oss_accessID: ""
+oss_accessKey: ""
+oss_domain: "https://nocking-blog-artical.oss-cn-chengdu.aliyuncs.com/"
